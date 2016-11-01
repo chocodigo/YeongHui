@@ -1,0 +1,10 @@
+lastUpgrade=00934
+proj.pluginVersion=0.9.34
+proj.AppId=897186811214
+and.BundleId=com.Windmoon.YeongHui
+proj.classDir=Assets
+proj.ConstantsClassName=YeongHui.GPGS
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3c%21--%0d%0aGoogle+Play+game+services+IDs.%0d%0aSave+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.%0d%0a--%3e%0d%0a%3cresources%3e%0d%0a++%3cstring+name%3d%22app_id%22%3e897186811214%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22package_name%22%3ecom.Windmoon.YeongHui%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_1%22%3eCgkIzpqBpI4aEAIQAQ%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_2%22%3eCgkIzpqBpI4aEAIQAg%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_3%22%3eCgkIzpqBpI4aEAIQAw%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_4%22%3eCgkIzpqBpI4aEAIQBA%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_5%22%3eCgkIzpqBpI4aEAIQBQ%3c%2fstring%3e%0d%0a%3c%2fresources%3e%0d%0a
+and.ClientId=897186811214-llnie4di6h7vmuc7ns5cmb83mbg5qjmk.apps.googleusercontent.com
+proj.requireGPlus=true
+android.SetupDone=true
